@@ -1,0 +1,6 @@
+sionna-rt
+tensorflow==2.15.0
+numpy
+matplotlib
+scikit-learn
+scipy
